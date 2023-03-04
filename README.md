@@ -33,3 +33,4 @@ You can import the first image into a video track, and in its properties, select
 
 The audio and video should be synchronized.
 
+The resulting video can be found [here](https://drive.google.com/file/d/1RnATGCmQFcBhGEZFJz1kJ8kirmZO3rjo/view?usp=sharing).
