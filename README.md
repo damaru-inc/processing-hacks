@@ -1,6 +1,9 @@
 # processing-hacks
 This contains examples of [Processing](https://processing.org) scripts.
 
+N.B. These depend on a new feature I hoping to add to the [Processing Sound library](https://github.com/processing/processing-sound/pull/82).
+They won't work for you unless you download the branch I hope gets pulled, and install it yourself which is easy enough.
+
 So far I have only documented one of these:
 
 ## fftStereo
