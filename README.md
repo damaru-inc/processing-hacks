@@ -1,7 +1,7 @@
 # processing-hacks
 This contains examples of [Processing](https://processing.org) scripts.
 
-So far there is just one:
+So far I have only documented one of these:
 
 ## fftStereo
 
